@@ -1,0 +1,2 @@
+Task 1 of Homework.
+I am creating this file in Google Colab.
