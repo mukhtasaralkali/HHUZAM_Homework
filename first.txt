@@ -1,2 +1,5 @@
 Task 1 of Homework.
 I am creating this file in Google Colab.
+
+
+Thank you very much for the precise work! At the very last task you should have tested with some other words as well, but all the others are fine, thank you! 
